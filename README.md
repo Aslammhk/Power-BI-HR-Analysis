@@ -1,4 +1,4 @@
-# powerbi_hranalytics
+# POWER_BI_HR_ Analytics
 *HR Analytics project using Power BI*
 Project: Power BI
 Hi everyone, My Power BI dashboard project. This project is a case study for HR Analytics. 
@@ -12,7 +12,7 @@ Data-set : CSV file format “HR Analytics data.csv”
 
 *Problem-Statement:* The company has faced financial crisis after covid pandemic’s effect and the ongoing recession, and asked the human resource team to analyze the data and provide insights so that management can take decision to improve the company’s condition.
 
-![image](https://user-images.githubusercontent.com/123319398/228572884-bd32855f-b56d-4e58-a1f1-f3d7afa2cfdf.png)
+![image](https://github.com/Aslammhk/Power-BI-HR-Analysis/blob/main/screenshots/data.png)
 
 Data Cleaning : The data was in a csv format which I import in a power bi desktop application and used power query editor to scrub the data. Following were the steps I took:  
 •	Splitting Columns by Delimiter as the whole content was separated by commas and in single cell  
@@ -37,7 +37,7 @@ With the help of this formulas I created following measures
 •	% Not due  
 •	On Service  
 
-![image](https://user-images.githubusercontent.com/123319398/228378675-1be1002a-ac0f-4dc3-8c94-4e8e28c4d522.png)
+![image](https://github.com/Aslammhk/Power-BI-HR-Analysis/blob/main/screenshots/tables.png)
 
 
 I also created Conditional Column to add data   
