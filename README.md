@@ -3,7 +3,7 @@
 Project: Power BI
 Hi everyone, My Power BI dashboard project. This project is a case study for HR Analytics. 
 
-![image](https://user-images.githubusercontent.com/123319398/228378508-96ce92b0-867f-4f9f-87ea-0de4e0da7bef.png)
+![image](https://github.com/Aslammhk/Power-BI-HR-Analysis/blob/main/screenshots/hr%20analysis.png)
 
 
 **About the project :** Human Resource is a very important for any business which drives the business to the path of success or bankruptcy if managed efficiently. In this project we will analyze the data regarding the recruitment, retention or retrenchment to improve the business outcomes. This analytic project will help the management to take data-driven decisions to promote the positive employees experience.
